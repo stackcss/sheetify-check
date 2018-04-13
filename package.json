@@ -1,0 +1,35 @@
+{
+  "name": "sheetify-check",
+  "description": "check css syntax with sheetify",
+  "version": "0.0.0",
+  "author": "Renée Kooi <renee@kooi.me>",
+  "bugs": {
+    "url": "https://github.com/stackcss/sheetify-check/issues"
+  },
+  "devDependencies": {
+    "sheetify": "^7.3.2",
+    "standard": "*",
+    "tap-spec": "^4.0.2",
+    "tape": "^4.0.0"
+  },
+  "homepage": "https://github.com/stackcss/sheetify-check",
+  "keywords": [
+    "check",
+    "css",
+    "parse",
+    "sheetify",
+    "syntax"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stackcss/sheetify-check.git"
+  },
+  "scripts": {
+    "test": "standard && tape test/*.js | tap-spec"
+  },
+  "dependencies": {
+    "css": "^2.2.1"
+  }
+}
