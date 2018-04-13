@@ -8,8 +8,8 @@ check css syntax with sheetify
 
 [npm-image]: https://img.shields.io/npm/v/sheetify-check.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/sheetify-check
-[travis-image]: https://img.shields.io/travis/goto-bus-stop/sheetify-check.svg?style=flat-square
-[travis-url]: https://travis-ci.org/goto-bus-stop/sheetify-check
+[travis-image]: https://img.shields.io/travis/stackcss/sheetify-check.svg?style=flat-square
+[travis-url]: https://travis-ci.org/stackcss/sheetify-check
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [standard-url]: http://npm.im/standard
 
